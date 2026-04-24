@@ -59,8 +59,6 @@ A: **No** - 100% local ML + FAISS retrieval
 **Q: Production ready?**  
 A: Yes - deterministic, no manual steps, handles failures gracefully
 
-**Q: Hackathon judge friendly?**  
-A: ✅ Live demo + PPT exports + clear story + strong metrics
 
 ## 📈 Why This Wins Hackathons
 
