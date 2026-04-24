@@ -1,7 +1,5 @@
 
 
-[![Dashboard Preview](PPT_Visuals/service_graph.png)](PPT_Visuals/service_graph.png)
-
 ## 🎯 Problem Statement
 
 Modern IT operations generate massive telemetry, but **90% of incidents still require manual triage**. NexusIQ Pro delivers **automated anomaly detection → root cause analysis → actionable incident memos** in a production-grade dashboard.
